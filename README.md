@@ -49,7 +49,6 @@ Esta es la estructura general del proyecto.
 * **assets**: recursos gráficos y utilidades JavaScript (nive y cuenta atrás)
 * **rxconfig.py**: configuración principal del proyecto (por defecto)
 * **requirements.txt**: dependencias del proyecto para su ejecución
-* **assets**: recursos gráficos y utilidades JavaScript (nive y cuenta atrás)
 * **build.sh**: script de generación estática de la web para producción
 * **[generado] public**: empaquetado estático del proyecto que se despliega en producción (HTML, CSS, JS e imágenes)
 
